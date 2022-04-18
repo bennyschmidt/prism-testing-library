@@ -1,0 +1,9 @@
+{
+  "name": "prism-testing-library",
+  "author": "@exactchange",
+  "description": "Easily write and automate tests for API responses.",
+  "version": "1.0.2",
+  "dependencies": {
+    "node-fetch": "2.6.0"
+  }
+}
